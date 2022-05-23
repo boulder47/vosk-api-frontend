@@ -1,8 +1,9 @@
-# MonsterPress File Manager 
+# MonsterPress File Manager (modified)
 
 ![Monsterpress File Manager](https://sanmeet007.github.io/mp/main.png)
 
 ## Overview 
+-- added transcribe button in file tools
 * Open Source, light and extremely simple
 * Uses Ajax to do various tasks ! 
 * Mobile friendly view for touch devices
@@ -12,6 +13,9 @@
 * Ability to compress, extract files (zip)
 * **Ace Editor** ( for editing purposes )   - Syntax highlighting for over 150+ languages, Over 35+ themes with your favorite programming styles . 
 * Lots more..
+
+-- modified upload to support all files.
+-- place vosk-api 'model' dir in webroot for it to run properly
 
 ## Keyboard Shortcuts 
 
