@@ -18,3 +18,9 @@ check the links from index.php/load.php/load_folders.php for pointing to the vos
 check pointer links in transcribe.php to point to your voskroot dir, vosk script.
 check the vosk-api python script to point to your voskroot for output of text file.
 by accessing your apache server, http://(ip-address)/index.php you can view the file manager, upload files, and initiate the vosk transcriber to output to a text file.
+
+![This is an image](/screenshots/file-list.png)
+
+![This is an image](/screenshots/file-tools.png)
+
+![This is an image](/screenshots/transcript.png)
