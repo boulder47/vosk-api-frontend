@@ -4,7 +4,7 @@ a website frontend for Vosk-api
 Running on Ubuntu.
 
 1) install vosk --> https://alphacephei.com/vosk/install
-2) install apache2 and php
+2) install apache2 and php , and ffmpeg (for audio/video convert to correct stream for vosk)
 3) setup custom or default apache site location
 4) get this git   (modified from : https://github.com/Sanmeet007/file-manager.git
 5) place webroot into apache site dir, and place the coskroot dir outside of it.
