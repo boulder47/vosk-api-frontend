@@ -14,4 +14,7 @@ Running on Ubuntu.
 9) unzip and rename folder to 'model'. (where ever your running the main vosk script, this model folder needs to be in the same dir.)
 10) check sudoers to allow apache user 'www-data' to run script.
 
+check the links from index.php/load.php/load_folders.php for pointing to the voskroot files dir. (where you will upload audio and download transcripts)
+check pointer links in transcribe.php to point to your voskroot dir, vosk script.
+check the vosk-api python script to point to your voskroot for output of text file.
 by accessing your apache server, http://(ip-address)/index.php you can view the file manager, upload files, and initiate the vosk transcriber to output to a text file.
